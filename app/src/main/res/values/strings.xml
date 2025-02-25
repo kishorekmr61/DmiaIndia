@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DMIA India</string>
+    <string name="internetconnection">This App needs Internet Connection.\nYour are currently not connected to internet</string>
+    <string name="https">http://</string>
+    <string name="somethingerror">Something went wrong please try after some time we are working on it</string>
+    <string name="domainselectionerror">Please select Company Server</string>
+
+    <string name="UserName">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="warning">Warning..</string>
+    <string name="singleuser_msg">Only one user can register with one device,so please deactivate your account and register</string>
+    <string name="no_employee">No Employee is registered with this device,Please register and give your attendance</string>
+    <string name="error">Error</string>
+    <string name="can_t_approve">Can\'t approve,Please try after sometime</string>
+    <string name="failure">Failure</string>
+    <string name="success">Success</string>
+    <string name="empid_not_found">EmpID NOT found in the company employee list</string>
+    <string name="invalid_employeeid">Please enter  valid employeeid</string>
+    <string name="deactivate_employee">Deactivate Employee</string>
+    <string name="deactivate">Deactivate</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="searching">Searching...</string>
+    <string name="no_data_found">No data found,try with valid login credentials</string>
+    <string name="login_credentials">Please enter login credentials</string>
+    <string name="no_data_found_please_contact_admin_for_your_attendance">No data found,Please contact admin for your attendance</string>
+    <string name="empid_not_found_in_the_company_employee_list">EmpID not found in the company employee list</string>
+    <string name="place_your_finger_on_scanner_to_scan">Please use finger or face to authenticate Attendance</string>
+    <string name="cannot_recognize_your_finger">Cannot recognize your finger print. Please try again.</string>
+    <string name="enable_location_permission_setting_info">This app needs location permission to continue. Please go to settings and allow location permission.</string>
+
+
+</resources>

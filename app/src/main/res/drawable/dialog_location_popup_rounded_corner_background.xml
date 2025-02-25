@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!--same F2F2F2_80 color but without opacity of 80% to avoid background content display on dialog-->
+    <solid android:color="@color/color_F2F2F2" />
+
+    <corners
+        android:bottomLeftRadius="@dimen/_12sdp"
+        android:bottomRightRadius="@dimen/_12sdp"
+        android:radius="@dimen/_12sdp"
+        android:topLeftRadius="@dimen/_12sdp"
+        android:topRightRadius="@dimen/_12sdp" />
+
+</shape>
