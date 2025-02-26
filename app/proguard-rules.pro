@@ -30,7 +30,7 @@
 -keepclassmembers class * {
   @com.google.gson.annotations.SerializedName <fields>;
 }
--keep class com.dmia.bioAttendance.** { *; }
+-keep class com.dmia.BioAttendanceindia.** { *; }
 -keepnames @dagger.hilt.android.lifecycle.HiltViewModel class * extends androidx.lifecycle.ViewModel
 
 # Needed by google-http-client-android when linking against an older platform version

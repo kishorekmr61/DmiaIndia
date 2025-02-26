@@ -15,7 +15,7 @@
 
         <variable
             name="vm"
-            type="com.dmia.bioAttendance.ui.userAttendance.UserAttendanceViewModel" />
+            type="com.dmia.bioattendance.ui.userAttendance.UserAttendanceViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

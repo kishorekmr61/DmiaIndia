@@ -16,7 +16,7 @@
 
         <variable
             name="vm"
-            type="com.dmia.bioAttendance.ui.userDashBoard.UserDashboardViewModel" />
+            type="com.dmia.bioattendance.ui.userDashBoard.UserDashboardViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -77,18 +77,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content">
 
-                            <com.farbod.labelledspinner.LabelledSpinner
-                                android:id="@+id/CompanySpinner"
-                                android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
-                                android:layout_marginStart="20dp"
-                                android:layout_marginLeft="20dp"
-                                android:layout_marginEnd="20dp"
-                                android:layout_marginRight="20dp"
-                                android:clickable="false"
-                                android:visibility="gone"
-                                ls:labelText="Select Server"
-                                ls:widgetColor="@color/colorPrimary" />
+
 
                         </androidx.appcompat.widget.LinearLayoutCompat>
 

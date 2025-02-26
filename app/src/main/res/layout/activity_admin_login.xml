@@ -15,7 +15,7 @@
 
         <variable
             name="vm"
-            type="com.dmia.bioAttendance.ui.loginActivity.LoginInViewModel" />
+            type="com.dmia.bioattendance.ui.loginActivity.LoginInViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
