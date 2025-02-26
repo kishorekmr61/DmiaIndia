@@ -80,7 +80,7 @@
                     android:paddingLeft="@dimen/_10sdp"
                     android:singleLine="true"
                     android:textColor="@color/black"
-                    android:textColorHint="@color/colorAccent"
+                    android:textColorHint="@color/colorPrimary"
                     android:textCursorDrawable="@drawable/color_cursor"
                     android:textSize="@dimen/_16sdp" />
 
