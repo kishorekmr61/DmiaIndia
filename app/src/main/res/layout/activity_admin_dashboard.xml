@@ -57,7 +57,8 @@
                 <androidx.appcompat.widget.AppCompatImageView
                     android:layout_width="@dimen/_70sdp"
                     android:layout_height="@dimen/_40sdp"
-                    android:src="@drawable/addemp" />
+                    android:src="@drawable/addemp"
+                    android:tint="@color/colorAccent"/>
 
                 <androidx.appcompat.widget.AppCompatTextView
                     android:layout_width="wrap_content"
@@ -66,7 +67,7 @@
                     android:gravity="center"
                     android:layout_marginStart="@dimen/_25sdp"
                     android:text="Approve Registration"
-                    android:textColor="#FFFFFF"
+                    android:textColor="@color/colorAccent"
                     android:textSize="@dimen/_16ssp"
                     android:textStyle="bold" />
 
@@ -90,7 +91,8 @@
                 <androidx.appcompat.widget.AppCompatImageView
                     android:layout_width="@dimen/_70sdp"
                     android:layout_height="@dimen/_40sdp"
-                    android:src="@drawable/removeemp" />
+                    android:src="@drawable/removeemp"
+                    android:tint="@color/colorAccent" />
 
                 <androidx.appcompat.widget.AppCompatTextView
                     android:layout_width="match_parent"
@@ -98,7 +100,7 @@
                     android:layout_gravity="center"
                     android:gravity="center"
                     android:text="Deregister "
-                    android:textColor="#FFFFFF"
+                    android:textColor="@color/colorAccent"
                     android:textSize="16sp"
                     android:textStyle="bold" />
 

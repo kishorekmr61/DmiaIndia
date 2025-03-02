@@ -21,7 +21,6 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#EFEFEF"
         tools:context=".ui.loginActivity.LoginActivity">
 
         <androidx.constraintlayout.widget.ConstraintLayout
@@ -142,7 +141,7 @@
                     android:layout_marginTop="@dimen/_18sdp"
                     android:layout_marginEnd="@dimen/_25sdp"
                     android:text="@string/login"
-                    android:textColor="@color/white"
+                    android:textColor="@color/colorAccent"
                     android:textSize="@dimen/_16ssp"
                     app:backgroundTint="@color/colorPrimary"
                     app:cornerRadius="@dimen/_25sdp"

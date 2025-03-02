@@ -82,6 +82,7 @@
                 android:layout_marginTop="@dimen/_30sdp"
                 android:src="@drawable/ic_finger_print"
                 app:layout_constraintEnd_toEndOf="parent"
+                android:tint="@color/colorAccent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/employee_edt"
                 tools:ignore="ContentDescription" />

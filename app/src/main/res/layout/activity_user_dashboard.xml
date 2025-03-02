@@ -22,7 +22,6 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#EFEFEF"
         tools:context=".ui.UserUserDashboardActivity.UserDashboardActivity">
 
         <RelativeLayout
@@ -119,7 +118,7 @@
                                         android:layout_gravity="center"
                                         android:gravity="center"
                                         android:text=""
-                                        android:textColor="#FFFFFF"
+                                        android:textColor="@color/colorAccent"
                                         android:textSize="@dimen/_16ssp"
                                         android:textStyle="bold" />
 
@@ -144,7 +143,7 @@
                                         android:layout_gravity="center"
                                         android:gravity="center"
                                         android:text="Capture attendance"
-                                        android:textColor="#FFFFFF"
+                                        android:textColor="@color/colorAccent"
                                         android:textSize="@dimen/_20sdp"
                                         android:textStyle="bold" />
 
@@ -240,7 +239,7 @@
                             app:cornerRadius="@dimen/_7sdp"
                             android:background="@color/colorAccent"
                             android:text="Admin"
-                            android:textColor="@color/white"
+                            android:textColor="@color/colorAccent"
                             android:textSize="@dimen/_12ssp"
                             android:layout_gravity="end"
                             android:visibility="visible"
