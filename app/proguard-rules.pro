@@ -39,3 +39,10 @@
 -dontwarn com.google.api.client.googleapis.extensions.android.**
 # Needed by google-play-services when linking against an older platform version
 -dontwarn com.google.android.gms.**
+-keep class packagename.*
+-dontwarn com.google.protobuf.java_com_google_android_gmscore_sdk_target_granule__proguard_group_gtm_N1281923064GeneratedExtensionRegistryLite**
+
+-keep,allowobfuscation,allowshrinking class kotlin.coroutines.Continuation
+-keep class com.android.org.conscrypt.** { *; }
+-keep class javax.annotation.** { *; }
+-keep class org.apache.harmony.xnet.provider.jsse.** { *; }
