@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DMIA India</string>
+    <string name="app_name">DMIA INDIA</string>
     <string name="internetconnection">This App needs Internet Connection.\nYour are currently not connected to internet</string>
     <string name="https">http://</string>
     <string name="somethingerror">Something went wrong please try after some time we are working on it</string>
